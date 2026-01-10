@@ -1,16 +1,23 @@
-## Hi there 👋
+# Abdulla Ahmed Hasan Al Mansoori
 
-<!--
-**aalmanasir/aalmanasir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Author and legal scholar focusing on contract interpretation and ambiguity.
 
-Here are some ideas to get you started:
+## Flagship Publication
+**Ambiguous Contracts (العقود الغامضة)**  
+A scholarly examination of contractual ambiguity, interpretive risk, and legal certainty in contract law.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Official publication links
+- DOI (ResearchGate): https://doi.org/10.13140/RG.2.2.22656.08962
+- SSRN: https://ssrn.com/abstract=5954895
+- Academia.edu: https://www.academia.edu/s/8c6f172124
+- Google Scholar: https://scholar.google.com/citations?user=OgVrDd0AAAAJ
+
+## Areas of Work
+- Contract interpretation and ambiguity
+- Legal theory and doctrinal analysis
+- Risk allocation in contractual drafting
+- Comparative perspectives on contract law
+
+## Academic Identity
+- ORCID: https://orcid.org/0009-0004-1997-5294
+
