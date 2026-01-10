@@ -1,4 +1,5 @@
 # Abdulla Ahmed Hasan Al Mansoori
+
 Author and legal scholar focusing on contract interpretation and ambiguity.
 
 ## 📘 Flagship Publication
