@@ -1,5 +1,4 @@
 # Abdulla Ahmed Hasan Al Mansoori
-
 Author and legal scholar focusing on contract interpretation and ambiguity.
 
 ## 📘 Flagship Publication
@@ -20,3 +19,16 @@ A scholarly examination of contractual ambiguity, interpretive risk, and legal c
 
 ## Academic Identity
 - **ORCID:** https://orcid.org/0009-0004-1997-5294
+
+## Media & Recorded Presentations
+
+### 📺 Book Signature Discussion (Television)
+- *Ambiguous Contracts (العقود الغامضة)*  
+  https://youtu.be/IjOX9bU0X8I?si=pV8UAnTcDOpWPwjz
+
+### 🎓 Research Examination / Academic Presentation
+- Contract ambiguity and interpretation  
+  https://youtu.be/1HfYz6nO9ao?si=tPRAzJnJOdMpocqK
+
+## YouTube Channel
+- **Official channel:** http://www.youtube.com/@A_almanasir
