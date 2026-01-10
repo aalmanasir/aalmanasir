@@ -24,4 +24,12 @@ A scholarly examination of contractual ambiguity, interpretive risk, and legal c
 ## Media & Recorded Presentations
 
 ### 📺 Book Signature Discussion (Television)
-- *Ambiguous Contracts (العقود ا*
+- *Ambiguous Contracts (العقود الغامضة)*  
+  https://youtu.be/IjOX9bU0X8I?si=pV8UAnTcDOpWPwjz
+
+### 🎓 Research Examination / Academic Presentation
+- Contract ambiguity and interpretation  
+  https://youtu.be/1HfYz6nO9ao?si=tPRAzJnJOdMpocqK
+
+## YouTube Channel
+- **Official channel:** http://www.youtube.com/@A_almanasir
