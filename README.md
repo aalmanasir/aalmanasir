@@ -13,11 +13,10 @@ A scholarly examination of contractual ambiguity, interpretive risk, and legal c
 - **Google Scholar:** https://scholar.google.com/citations?user=OgVrDd0AAAAJ
 
 ## Areas of Work
-- Contract interpretation and ambiguity  
-- Legal theory and doctrinal analysis  
-- Risk allocation in contractual drafting  
-- Comparative perspectives on contract law  
+- Contract interpretation and ambiguity
+- Legal theory and doctrinal analysis
+- Risk allocation in contractual drafting
+- Comparative perspectives on contract law
 
 ## Academic Identity
 - **ORCID:** https://orcid.org/0009-0004-1997-5294
-
