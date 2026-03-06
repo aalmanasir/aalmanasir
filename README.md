@@ -32,4 +32,4 @@ A scholarly examination of contractual ambiguity, interpretive risk, and legal c
   https://youtu.be/1HfYz6nO9ao?si=tPRAzJnJOdMpocqK
 
 ## YouTube Channel
-- **Official channel:** http://www.youtube.com/@A_almanasir
+- **Official channel:** https://www.youtube.com/@A_almanasir
