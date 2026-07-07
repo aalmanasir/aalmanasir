@@ -1,35 +1,44 @@
-# Abdulla Ahmed Hasan Al Mansoori
+# Abdulla Ahmed Al Mansoori
 
-Author and legal scholar focusing on contract interpretation and ambiguity.
+عبدالله أحمد المنصوري
 
-## 📘 Flagship Publication
-**Ambiguous Contracts (العقود الغامضة)**  
-A scholarly examination of contractual ambiguity, interpretive risk, and legal certainty in contract law.
+Emirati author, arbitration researcher, and public-sector professional based in Abu Dhabi, United Arab Emirates.
 
-### Official publication links
-- **DOI (ResearchGate):** https://doi.org/10.13140/RG.2.2.22656.08962
-- **SSRN:** https://ssrn.com/abstract=5954895
-- **Academia.edu:** https://www.academia.edu/s/8c6f172124
-- **Google Scholar:** https://scholar.google.com/citations?user=OgVrDd0AAAAJ
+## The Red Thread Stories
 
-## Areas of Work
-- Contract interpretation and ambiguity
-- Legal theory and doctrinal analysis
-- Risk allocation in contractual drafting
-- Comparative perspectives on contract law
+A bilingual literary house — three volumes written in English and Arabic, gathered into a single digital reading experience exploring memory, identity, absence, and human connection.
 
-## Academic Identity
-- **ORCID:** https://orcid.org/0009-0004-1997-5294
+- [The Red Thread — Official Website](https://theredthread-stories.com)
+- [Author Page](https://theredthread-stories.com/abdulla-ahmed-al-mansoori.html)
+
+### Books
+
+| # | English Title | Arabic Title |
+|---|---------------|--------------|
+| I | Three Months, Four Seasons | ثلاثة أشهر، أربعة فصول |
+| II | The Fifth Season | الفصل الخامس |
+| III | How Is Life Treating You? | كيف تُعامِلُكَ الحياة؟ |
+
+## Academic Research
+
+My research focuses on international commercial arbitration, contract interpretation, and legal legitimacy.
+
+- [The Ambiguous Contract (DOI)](https://doi.org/10.13140/RG.2.2.22656.08962) — Master's thesis / academic research on the authority of the arbitrator in interpreting the law applicable to the arbitral dispute under UAE Arbitration Law No. (6) of 2018.
+
+Doctoral research in progress on arbitration, legal legitimacy, and algorithmic transformation.
+
+## Academic Profiles
+
+- [ResearchGate](https://www.researchgate.net/profile/Abdulla-Al-Mansoori-2)
+- [Google Scholar](https://scholar.google.com/citations?user=OgVrDd0AAAAJ)
+- [ORCID](https://orcid.org/0009-0004-1997-5294)
 
 ## Media & Recorded Presentations
 
-### 📺 Book Signature Discussion (Television)
-- *Ambiguous Contracts (العقود الغامضة)*  
-  https://youtu.be/IjOX9bU0X8I?si=pV8UAnTcDOpWPwjz
+- [Book Signature Discussion — Television](https://youtu.be/IjOX9bU0X8I?si=pV8UAnTcDOpWPwjz)
+- [Research Examination / Academic Presentation](https://youtu.be/1HfYz6nO9ao?si=tPRAzJnJOdMpocqK)
 
-### 🎓 Research Examination / Academic Presentation
-- Contract ambiguity and interpretation  
-  https://youtu.be/1HfYz6nO9ao?si=tPRAzJnJOdMpocqK
+## Public Profiles
 
-## YouTube Channel
-- **Official channel:** https://www.youtube.com/@A_almanasir
+- [LinkedIn](https://www.linkedin.com/in/aahmhm/)
+- [YouTube](https://www.youtube.com/@A_almanasir)
