@@ -4,7 +4,7 @@
 
 ## عبدالله أحمد المنصوري
 
-### Emirati Author · Arbitration Researcher · Public-Sector and Healthcare Operations Professional
+### Founder of The Red Thread · Emirati Author · Arbitration Researcher
 
 **Abu Dhabi, United Arab Emirates**
 
