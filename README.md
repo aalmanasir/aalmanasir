@@ -60,7 +60,6 @@ contractual clauses and the law applicable to an arbitral dispute.
 - [DOI record](https://doi.org/10.13140/RG.2.2.22656.08962)
 - [ResearchGate thesis record](https://www.researchgate.net/publication/398927873_alqwd_alghamdt_drast_fy_sltt_almhkm_fy_tfsyr_alqanwn_almtbq_ly_almnazt_althkymyt_fy_ntaq_althkym_aldwly)
 - [Google Scholar](https://scholar.google.com/citations?user=OgVrDd0AAAAJ)
-- [ORCID](https://orcid.org/0009-0004-1997-5294)
 - [Academia.edu](https://independent.academia.edu/AbdullaAhmedAlMansoori)
 
 Research is described according to its current public record. No inactive or
@@ -76,7 +75,6 @@ institutional records are intentionally excluded.
 ## Public Profiles
 
 - [Official author page](https://theredthread-stories.com/abdulla-ahmed-al-mansoori.html)
-- [ORCID](https://orcid.org/0009-0004-1997-5294)
 - [Google Scholar](https://scholar.google.com/citations?user=OgVrDd0AAAAJ)
 - [ResearchGate](https://www.researchgate.net/profile/Abdulla-Al-Mansoori-2)
 - [Academia.edu](https://independent.academia.edu/AbdullaAhmedAlMansoori)
