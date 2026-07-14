@@ -1,10 +1,14 @@
 <div align="center">
 
-# Abdulla Ahmed Al Mansoori
+# Abdulla Ahmed Al Mansoori, LL.M, MSc
 
 ## عبدالله أحمد المنصوري
 
-**Founder and author of The Red Thread | Arbitration researcher | Healthcare operations**
+**Founder and author of The Red Thread | Healthcare operations**
+
+**PhD Researcher in Arbitration and Dispute Resolution | Postgraduate Fellow in International Arbitration**
+
+**باحث دكتوراه في التحكيم وتسوية المنازعات | زميل دراسات عليا في التحكيم الدولي**
 
 Abu Dhabi, United Arab Emirates
 
@@ -21,6 +25,10 @@ Abu Dhabi, United Arab Emirates
 ## About
 
 I am an Emirati author and independent arbitration researcher based in Abu Dhabi.
+
+I am currently a PhD Researcher in Arbitration and Dispute Resolution and a
+concurrent Postgraduate Fellow in International Arbitration. Both academic
+activities are ongoing; neither is represented as completed.
 
 I founded **The Red Thread**, a bilingual English-Arabic literary project about
 memory, identity, belonging, love, time, and the connections that endure between
@@ -50,7 +58,7 @@ Research on the limits of an arbitrator's authority when interpreting ambiguous
 contractual clauses and the law applicable to an arbitral dispute.
 
 - [DOI record](https://doi.org/10.13140/RG.2.2.22656.08962)
-- [ResearchGate publication](https://www.researchgate.net/publication/392405912_Ambiguous_Contracts)
+- [ResearchGate thesis record](https://www.researchgate.net/publication/398927873_alqwd_alghamdt_drast_fy_sltt_almhkm_fy_tfsyr_alqanwn_almtbq_ly_almnazt_althkymyt_fy_ntaq_althkym_aldwly)
 - [Google Scholar](https://scholar.google.com/citations?user=OgVrDd0AAAAJ)
 - [ORCID](https://orcid.org/0009-0004-1997-5294)
 - [Academia.edu](https://independent.academia.edu/AbdullaAhmedAlMansoori)
@@ -85,3 +93,7 @@ Owner-managed profiles establish identity continuity; they are not independent
 institutional endorsements. This profile does not claim a completed doctorate,
 the title "Dr.", an arbitral appointment, an editorial appointment, or a live
 SSRN publication.
+
+The current academic description is **PhD Researcher in Arbitration and Dispute
+Resolution | Postgraduate Fellow in International Arbitration**. Both statuses
+are concurrent and ongoing. No formal PhD candidacy claim is made here.
