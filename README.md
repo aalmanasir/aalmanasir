@@ -4,7 +4,7 @@
 
 ## عبدالله أحمد المنصوري
 
-**Founder and author of The Red Thread | Healthcare operations**
+**Founder and Author of The Red Thread**
 
 **PhD Researcher in Arbitration and Dispute Resolution | Postgraduate Fellow in International Arbitration**
 
