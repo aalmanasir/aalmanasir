@@ -98,8 +98,8 @@ institutional records are intentionally excluded.
 
 ## Identity and Accuracy
 
-The canonical public name is **Abdulla Ahmed Al Mansoori**. The canonical Arabic
-name is **عبدالله أحمد المنصوري**. The official author page is the primary source
+The canonical public name is **Dr. Abdulla Ahmed Al Mansoori**. The canonical Arabic
+name is **د. عبدالله أحمد المنصوري**. The official author page is the primary source
 for biography, bibliography, and public identity links.
 
 Owner-managed profiles establish identity continuity; they are not independent
