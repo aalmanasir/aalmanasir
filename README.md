@@ -1,14 +1,14 @@
 <div align="center">
 
-# Abdulla Ahmed Al Mansoori, LL.M, MSc
+# Dr. Abdulla Ahmed Al Mansoori, PhD, LL.M, MSc
 
-## عبدالله أحمد المنصوري
+## د. عبدالله أحمد المنصوري
 
 **Founder and Author of The Red Thread**
 
-**Doctoral Researcher in International Commercial Arbitration**
+**PhD in International Commercial Arbitration**
 
-**باحث دكتوراه في التحكيم التجاري الدولي**
+**حاصل على دكتوراه في التحكيم التجاري الدولي**
 
 Abu Dhabi, United Arab Emirates
 
