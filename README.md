@@ -20,13 +20,13 @@ Abu Dhabi, United Arab Emirates · أبوظبي، الإمارات العربي�
 
 ## About | نبذة
 
-I am an Emirati author, arbitration researcher, public-sector professional and healthcare-operations professional, and the founder of **The Red Thread**, a bilingual literary house based in Abu Dhabi. My work brings together literature, memory, human connection and the study of legal judgment.
+I am Legal Consultant Dr. Abdulla Ahmed Al Mansoori, an Emirati author, arbitration researcher, public-sector professional and healthcare-operations professional, and the founder of **The Red Thread**, a bilingual literary house based in Abu Dhabi. My work brings together literature, memory, human connection and the study of legal judgment.
 
-كاتب إماراتي، وباحث في التحكيم، ومهني في القطاع العام والعمليات الصحية، ومؤسس **الخيط الأحمر** في أبوظبي؛ بيت أدبي تبدأ فيه الحكايات بالعربية وتُحمل إلى الإنجليزية بعناية. تجمع أعمالي بين الأدب والذاكرة والصلة الإنسانية والبحث في الحكم القانوني.
+المستشار القانوني د. عبدالله أحمد المنصوري، كاتب إماراتي، وباحث في التحكيم، ومهني في القطاع العام والعمليات الصحية، ومؤسس **الخيط الأحمر** في أبوظبي؛ بيت أدبي تبدأ فيه الحكايات بالعربية وتُحمل إلى الإنجليزية بعناية. تجمع أعمالي بين الأدب والذاكرة والصلة الإنسانية والبحث في الحكم القانوني.
 
-My PhD in International Commercial Arbitration was conferred on **10 September 2026** by the **International College of Economic & Political Sciences**. The publication basis is my supplied, owner-confirmed authenticated award letter; independent online institutional authentication is not claimed. LL.M and MSc remain preserved without asserting equivalence or that they represent separate awards.
+My PhD in International Commercial Arbitration was conferred on **10 September 2026** by the **International College of Economic & Political Sciences**.
 
-حاصل على دكتوراه في التحكيم التجاري الدولي، مُنحت في **10 سبتمبر 2026** من **الكلية الدولية للعلوم الاقتصادية والسياسية**، استناداً إلى خطاب المنح الذي قدّمته وأكدت توثيقه، دون ادعاء تحقق مؤسسي مستقل عبر الإنترنت.
+حاصل على دكتوراه في التحكيم التجاري الدولي، مُنحت في **10 سبتمبر 2026** من **الكلية الدولية للعلوم الاقتصادية والسياسية**.
 
 A **Fellowship in Politics and International Relations is scheduled to begin in January 2027**. Commencement and completion will be recorded separately.
 
