@@ -69,7 +69,9 @@ Read the collection at [theredthread-stories.com](https://theredthread-stories.c
 
 [Book edition and thesis record](https://theredthread-stories.com/research/the-ambiguous-contract.html) · [DataCite DOI: 10.13140/RG.2.2.22656.08962](https://doi.org/10.13140/RG.2.2.22656.08962). The DOI identifies the thesis deposit, not the book edition.
 
-**Doctoral research:** أثر التحوّل الخوارزمي على الشرعية القانونية في التحكيم الدولي: دراسة قانونية استشرافية
+**Doctoral research:** The Role of Digital Transformation and Artificial Intelligence in Developing the International Commercial Arbitration System: An Analytical Study in Light of the UAE Experience
+
+دور التحوّل الرقمي والذكاء الاصطناعي في تطوير منظومة التحكيم التجاري الدولي: دراسة تحليلية في ضوء التجربة الإماراتية
 
 The research considers algorithmic transformation, legal legitimacy, artificial intelligence and international arbitration.
 
