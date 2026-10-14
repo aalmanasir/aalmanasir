@@ -71,7 +71,15 @@ Read the collection at [theredthread-stories.com](https://theredthread-stories.c
 
 **Doctoral research:** أثر التحوّل الخوارزمي على الشرعية القانونية في التحكيم الدولي: دراسة قانونية استشرافية
 
-The research considers algorithmic transformation, legal legitimacy, artificial intelligence and international arbitration. **The Coming Heir | الوارث القادم** is the associated forthcoming book; no publication date or full manuscript release is claimed. [Public research overview](https://theredthread-stories.com/research/the-coming-heir.html).
+The research considers algorithmic transformation, legal legitimacy, artificial intelligence and international arbitration.
+
+**The Coming Heir | الوارث القادم — forthcoming Arabic book**
+
+**دور التحوّل الرقمي والذكاء الاصطناعي في تطوير منظومة التحكيم التجاري الدولي: دراسة تحليلية في ضوء التجربة الإماراتية**
+
+*The Role of Digital Transformation and Artificial Intelligence in Developing the International Commercial Arbitration System: An Analytical Study in Light of the UAE Experience*
+
+The Arabic title and English cover wording identify the book’s focus on the UAE experience. No publication date or full manuscript release is claimed. [Book and research overview](https://theredthread-stories.com/research/the-coming-heir.html).
 
 ## Professional work and development | المسار المهني والتطوير
 
