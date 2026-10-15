@@ -83,6 +83,10 @@ The research considers algorithmic transformation, legal legitimacy, artificial 
 
 The Arabic title and English cover wording identify the book’s focus on the UAE experience. No publication date or full manuscript release is claimed. [Book and research overview](https://theredthread-stories.com/research/the-coming-heir.html).
 
+Brief preview: The forthcoming book examines digital transformation and artificial intelligence in international commercial arbitration in light of the UAE experience, considering human judgment, due process, transparency and accountability.
+
+لمحة موجزة: يتناول الكتاب القادم التحوّل الرقمي والذكاء الاصطناعي في التحكيم التجاري الدولي في ضوء التجربة الإماراتية، مع النظر في دور التقدير البشري، وضمانات الإجراءات القانونية الواجبة، والشفافية، والمساءلة.
+
 ## Professional work and development | المسار المهني والتطوير
 
 My professional background spans Abu Dhabi public-sector and healthcare environments, including SEHA and Sheikh Shakhbout Medical City (SSMC), with interests in institutional service, operational excellence and human-centred practice. My continuing professional development includes **Stanford Medicine CME coursework**. Continuing education is recorded separately from degrees and institutional appointments.
